@@ -13,6 +13,8 @@ Released closed milestones can be found on [GitHub](https://github.com/Icinga/ic
 
 ### Enhancements
 
+* [#228](https://github.com/Icinga/icinga-powershell-framework/issues/228) Adds feature to suppress any kind of console output except for plugin output and performance data
+
 ### Bugfixes
 
 ## 1.4.1 (2021-03-10)
